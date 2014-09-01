@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+	<!--[if lt IE 7 ]><html lang="en" class="ie ie6"><![endif]--> 
+	<!--[if IE 7 ]><html lang="en" class="ie ie7"><![endif]--> 
+	<!--[if IE 8 ]><html lang="en" class="ie ie8"><![endif]--> 
+	<!--[if (gte IE 9)|!(IE)]><!--> <html lang="en"><!--<![endif]--> 
+	<head>
+		<meta name="google-site-verification" content="ePY1L_Wv-Iv_x38aFQbD7JWQRffvSu47MfK9DFa3KEU" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<!--Document Property Tags-->
+			<!--Traditional Meta Tags-->
+			<meta name="Author" content="Tushar Narayan"/>
+			<meta name="page-topic" content="Tushar Narayan"/>
+			<meta name="Copyright" content="Tushar Narayan"/>
+			<meta name="ROBOTS" content="INDEX, FOLLOW"/>
+			<meta name="googlebot" content="INDEX, FOLLOW"/>
+			<meta name="YahooSeeker" content="INDEX, FOLLOW"/>
+			<meta name="msnbot" content="INDEX, FOLLOW"/>
+			<meta name="reply-to" content="tusharnarayan@gmail.com"/>
+			<meta name="allow-search" content="yes"/>
+			<meta name="revisit-after" content="daily"/>
+			<meta name="Rating" content="General"/>
+			<meta name="distribution" content="global"/>
+			<meta name="expires" content="never"/>
+			<meta name="language" content="english"/>
+			<meta name="keywords" content="Tushar Narayan, tusharnarayan@gmail.com, TUSHAR NARAYAN, Worcester Polytechnic, Worcester, Massachusetts, tushar narayan, tushar narayan website, webdesigner, web designer, Harvard, Harvard Summer school, harvard summer school, tushar narayan web, tushar narayan website, TUSHAR NARAYAN STUDENT" /> 
+			<meta name="title" content="Official Website of Tushar Narayan" /> 
+			<meta name="description" content="Tushar Narayan is a website designer and programmer, currently studying at Worcester Polytechnic Institute, Massachusetts. He went to Harvard University in 2010." /> 
+			<meta http-equiv="refresh" content="240" />
+			<!--End Traditional Meta Tags-->
+	
+			<!--Open Graph Meta Tags-->
+			<meta property="og:title" content="Website of Tushar Narayan" />
+			<meta property="og:type" content="author" />
+			<meta property="og:url" content="http://morpheus.dce.harvard.edu/~tnarayan/tusharnarayan/index.shtml" />
+			<meta property="og:image" content="http://morpheus.dce.harvard.edu/~tnarayan/tusharnarayan/img/tushar.jpg" />
+			<meta property="og:site_name" content="Tushar Narayan's Website" />
+			<meta property="og:description" content="Tushar Narayan is a website designer and programmer, currently studying at Worcester Polytechnic Institute, Massachusetts. He went to Harvard University in 2010." />
+			<meta property="fb:admins" content="729266740" />
+			<!--Contact Info Meta Tags-->
+			<meta property="og:email" content="tusharnarayan@gmail.com"/>
+			<meta property="og:phone_number" content="0091-9650124623"/>
+			<!--End Contact Info Meta Tags-->
+			<!--End Open Graph Meta Tags-->
+		<!--End of property tags-->
+	
+		<!--Custom Favicons-->
+			<!-- for mozilla/firefox -->
+			<link rel="icon" href="img/favicon.ico" type="image/gif"/>
+			<!-- for IE -->
+			<link rel="shortcut icon" href="img/favicon.ico" type="image/vnd.microsoft.icon"/>
+		<title>Tushar Narayan</title>
+		<style>
+			a:link {text-decoration: none; color:#919191}
+			a:visited {text-decoration: none; color:#919191}
+			a:hover {text-decoration: underline; color:#c7c7c7}
+			a:active {text-decoration: underline; color:#c7c7c7}
+		</style>
+		<style type="text/css">
+			.circular_profile{
+				float: right;
+				width: 300px;
+				height: 300px;
+				border-radius: 150px;
+				-webkit-border-radius: 150px;
+				-moz-border-radius: 150px;
+				background: url(http://tusharnarayan.com/img/profile_bw.jpg) no-repeat;
+			}
+		</style>
+	</head> 
+	<body style="font-family:Trebuchet MS; font-weight:normal; font-style:normal;">
+		<div style="margin-left:10%; margin-top:5%; margin-right:10%;">
+		<h1>
+			hi. i'm Tushar Narayan.
+		</h1>
+		<div class="circular_profile"></div>
+		<h2>
+			i'm a rising senior majoring in Computer Science at <a href="http://www.wpi.edu/">Worcester Polytechnic Institute</a> in Massachusetts.
+			<br />
+			<br />
+			i'm a Founding Father and the president of the <a href="http://betathetapi.org/">Beta Theta Pi Fraternity</a>'s <a href="http://betathetapi.wpi.edu/">WPI colony</a>.
+			<br />
+			<br />
+			i went to <a href="http://www.harvard.edu/">Harvard University</a> for Summer School in 2010, and graduated from high school in India in 2011.
+			<br />
+			<br />
+			i've lived in various parts of India, and in the Kingdom of Bahrain in the Middle East.
+			<br />
+			<br />
+			i'm passionate about building team culture and developing great software.
+			<br />
+			<br />
+			i'm currently in Worcester, Massachusetts.
+		</h2>
+		<h3>
+			<a href="http://availability.tusharnarayan.com/">let's meet up.</a> i like coffee.
+			<br />
+			<a href="https://twitter.com/tusharnarayan">here's what i'm thinking.</a> i tweet infrequently.
+			<br />
+			<a href="http://instagram.com/tusharnarayan">here's what i'm seeing.</a> i prefer x-pro ii.
+			<br />
+			<a href="http://www.linkedin.com/in/tusharnarayan/">here's what i've done.</a> i read a lot.
+			<br />
+			<br />
+			<br />
+			or you can <a href="mailto:tusharnarayan@gmail.com">email me.</a> inbox zero is probably overrated.
+		</h3>
+		</div>
+	</body>
+<!--Google analytics snippet-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-23867667-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</html>
